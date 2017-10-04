@@ -15,7 +15,10 @@ function State(nameIn, revenueIn, locationsIn){
 var missouri = new State("MO",30000,12);
 console.log(missouri);
 // object instances
-
+function listForPizza (stateIn){
+  for(i=0; i<stateIn.length, i+=){
+  locations.push(stateIn.location[i]);
+}
 // push object instances to locations array
 
 // DO NOT MODIFY THIS CODE
